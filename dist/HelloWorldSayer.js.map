@@ -1,0 +1,1 @@
+{"version":3,"file":"HelloWorldSayer.js","sourceRoot":"","sources":["../src/HelloWorldSayer.ts"],"names":[],"mappings":";AAAA;IAEE,YAAY,IAAY;QACtB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACnB,CAAC;IACD,QAAQ;QACN,MAAM,CAAC,GAAG,IAAI,CAAC,IAAI,uBAAuB,CAAC;IAC7C,CAAC;AACH,CAAC;AAED;kBAAe,eAAe,CAAC"}
